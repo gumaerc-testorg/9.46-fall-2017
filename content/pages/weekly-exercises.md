@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Weekly Exercises
 uid: 249ddb99-a589-1e9a-ad44-9f1a5534e9e9
 ---
