@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: ab0f831c-8e8f-394e-d91f-27728b3040d7
 ---
@@ -19,7 +20,7 @@ Students will work on their final essay throughout the semester.
 Proposal
 --------
 
-Choose a question (from the list above, or propose your own). Select 6-9 papers from the list of papers in [Readings]({{< baseurl >}}/pages/readings), and for each one, in one sentence say how you expect that paper to be relevant to your question.
+Choose a question (from the list above, or propose your own). Select 6-9 papers from the list of papers in {{< resource_link 472c6e0e-5581-d52e-ce8a-a06382cce741 "Readings" >}}, and for each one, in one sentence say how you expect that paper to be relevant to your question.
 
 Draft 1 and Additional Reading Proposal
 ---------------------------------------

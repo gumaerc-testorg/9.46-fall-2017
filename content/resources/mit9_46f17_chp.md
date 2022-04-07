@@ -10,6 +10,7 @@ image_metadata:
   image-alt: fMRI image of regions in the brain used in assessing intent.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: CHP
 uid: af0e49b0-1c46-cac0-01c5-0974fa7389bc
