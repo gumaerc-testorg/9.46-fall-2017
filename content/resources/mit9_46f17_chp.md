@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of rTPJ, precuneus indicated in fMRI
-file: /media/courses/9-46-neuroscience-of-morality-fall-2017/af0e49b01c46cac001c50974fa7389bc_MIT9_46F17_chp.png
+file: /courses/9-46-neuroscience-of-morality-fall-2017/af0e49b01c46cac001c50974fa7389bc_MIT9_46F17_chp.png
 file_type: image/png
 image_metadata:
   caption: fMRI indicating areas of the brain used in considering someone's intentions;
@@ -10,8 +10,9 @@ image_metadata:
   image-alt: fMRI image of regions in the brain used in assessing intent.
 learning_resource_types: []
 ocw_type: OCWImage
-parent_uid: null
 resourcetype: Image
 title: CHP
 uid: af0e49b0-1c46-cac0-01c5-0974fa7389bc
 ---
+Image of rTPJ, precuneus indicated in fMRI
+

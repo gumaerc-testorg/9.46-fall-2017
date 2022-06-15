@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
-parent_uid: null
 title: Exams
 uid: 8201efb4-4c25-ce08-c395-083cfc861315
 ---
