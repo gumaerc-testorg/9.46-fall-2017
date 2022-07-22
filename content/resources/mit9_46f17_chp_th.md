@@ -9,10 +9,10 @@ image_metadata:
   credit: Courtesy of Rebecca Saxe
   image-alt: fMRI image of regions in the brain used in assessing intent.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: CHP thumbnail
 uid: 409188ff-ad24-8555-a719-1e271ea709ed
 ---
 fMRI of a brain
-

@@ -9,10 +9,10 @@ image_metadata:
   credit: Image courtesy of Professor Rebecca Saxe.
   image-alt: fMRI image of regions in the brain used in assessing intent.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: CHP
 uid: af0e49b0-1c46-cac0-01c5-0974fa7389bc
 ---
 Image of rTPJ, precuneus indicated in fMRI
-
