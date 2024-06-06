@@ -2,6 +2,7 @@
 content_type: resource
 description: Image of rTPJ, precuneus indicated in fMRI
 file: /courses/9-46-neuroscience-of-morality-fall-2017/af0e49b01c46cac001c50974fa7389bc_MIT9_46F17_chp.png
+file_size: 104857
 file_type: image/png
 image_metadata:
   caption: fMRI indicating areas of the brain used in considering someone's intentions;
