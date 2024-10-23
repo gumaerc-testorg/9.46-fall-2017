@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: fMRI of a brain
-file: /courses/9-46-neuroscience-of-morality-fall-2017/409188ffad248555a7191e271ea709ed_MIT9_46F17_chp_th.png
+file: /ol-ocw-studio-app/courses/9-46-neuroscience-of-morality-fall-2017/409188ffad248555a7191e271ea709ed_MIT9_46F17_chp_th.png
 file_size: 19753
 file_type: image/png
 image_metadata:
